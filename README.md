@@ -20,6 +20,7 @@ There are four difficulty levels:
 To play, run the main.py file. Select a difficulty level by entering a number between 1 and 3. You will then see a list of underscores representing the letters of the word you have to guess. Enter a letter and the game will either reveal the letter in the word or reduce your lives if the letter is not present in the word. The game continues until you guess all the letters in the word or run out of lives.
 
 ## Customization
+
 You can customize the game by adding or changing the words in the countries-and-capitals.txt file. Each line in the file should contain a country and its capital separated by a |.
 
 Good luck!
